@@ -1,5 +1,5 @@
 # Databricks notebook source
-Azure_tenant_id=dbutils.secrets.get('tt-hc-kv','tenantid')
+Azure_tenant_id=dbutils.secrets.get('tt-hc-kv','Azuretenantid')
 App_id=dbutils.secrets.get('tt-hc-kv','Appid')
 Azuresecrets=dbutils.secrets.get('tt-hc-kv','Azuresecrets')
 
