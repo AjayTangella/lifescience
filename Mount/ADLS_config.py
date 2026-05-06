@@ -14,5 +14,5 @@ spark.conf.set("fs.azure.account.oauth.provider.type.ajayinsurance.dfs.core.wind
 spark.conf.set("fs.azure.account.oauth2.client.id.ajayinsurance.dfs.core.windows.net", App_id)
 spark.conf.set("fs.azure.account.oauth2.client.secret.ajayinsurance.dfs.core.windows.net", Azuresecrets)
 spark.conf.set("fs.azure.account.oauth2.client.endpoint.ajayinsurance.dfs.core.windows.net", 
-               f"https://login.microsoftonline.com/Azure_tenant_id/oauth2/token")
+               f"https://login.microsoftonline.com/{Azure_tenant_id}/oauth2/token")
 
