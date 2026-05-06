@@ -90,3 +90,4 @@ write_file(claims_df, file_path, read_type, mode, None)
 
 # COMMAND ----------
 
+

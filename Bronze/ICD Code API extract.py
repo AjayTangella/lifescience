@@ -154,3 +154,4 @@ write_file(df, file_path, read_type, mode, catalog=None, schema=None, table=None
 
 # COMMAND ----------
 
+
