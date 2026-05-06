@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %run ../Mount/ADLS_config
+# MAGIC #%run ../Mount/ADLS_config
 
 # COMMAND ----------
 
